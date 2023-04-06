@@ -1,4 +1,6 @@
 # URL-Shortener
+### Update
+- 2023년 4월 6일: 실행 가능 하도록 dll 위치 수정
 
 ### 개요
 - URL $\rightarrow$ 8자리 단축
